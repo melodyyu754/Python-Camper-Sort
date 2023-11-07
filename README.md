@@ -3,4 +3,4 @@ During the time I worked at a summer camp Vermont, one of the tasks that took up
 
 I created a python program that sorts students into different groups. Additionally, it uses plotly to visualize the schedule.
 
-<img width="1331" alt="Screenshot 2023-11-06 at 10 30 57 PM" src="https://github.com/melodyyu754/Python-Camper-Sort/assets/118621363/dd871092-96b5-4d3d-8689-b7cbdca8beae">
+<img width="1323" alt="Screenshot 2023-11-06 at 10 32 29 PM" src="https://github.com/melodyyu754/Python-Camper-Sort/assets/118621363/6bbe3c02-de6f-40a8-a6d6-f70a00ffb69a">
